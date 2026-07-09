@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The First Mate's Log</title>
+    <title>The First Officer's Log</title>
     <link>https://nesint00-rgb.github.io/cptlog-39e1ad6485/</link>
-    <description>Custom audio briefings and 'what happened since' update episodes, produced for the Captain.</description>
+    <description>Briefings from your first officer: 'what happened since' update logs and dispatches, compiled for the Captain.</description>
     <language>en-us</language>
     <itunes:author>Captain</itunes:author>
-    <itunes:summary>Custom audio briefings and 'what happened since' update episodes, produced for the Captain.</itunes:summary>
+    <itunes:summary>Briefings from your first officer: 'what happened since' update logs and dispatches, compiled for the Captain.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://nesint00-rgb.github.io/cptlog-39e1ad6485/cover.jpg"/>
     <itunes:category text="Society &amp; Culture"/>
@@ -16,7 +16,7 @@
     </itunes:owner>
     <image>
       <url>https://nesint00-rgb.github.io/cptlog-39e1ad6485/cover.jpg</url>
-      <title>The First Mate's Log</title>
+      <title>The First Officer's Log</title>
       <link>https://nesint00-rgb.github.io/cptlog-39e1ad6485/</link>
     </image>
     <item>
