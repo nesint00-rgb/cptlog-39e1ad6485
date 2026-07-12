@@ -1,0 +1,6 @@
+{
+  "title": "Wormhole 1 - The Magic Number",
+  "description": "The first Wormhole - a produced deep-dive. Seven lines of code in a 1999 video game (Quake III) compute one-over-a-square-root about four times faster than should be possible - no square root, no division - and the programmer left a comment beside it that is, simply, a bewildered curse. When the source went public, nobody at id Software would claim it. Follow the thread all the way down: why a number's raw bits are secretly its own logarithm, a magic constant nobody can explain the origin of, a decade-long hunt for the author, and a payoff that loops back to the standard underneath every calculation your computer makes. (The fast inverse square root, 0x5f3759df.)",
+  "pubDate": "2026-07-12T12:00:00",
+  "guid": "folog-wormhole-1-the-magic-number-2026-07-12"
+}

@@ -20,6 +20,16 @@
       <link>https://nesint00-rgb.github.io/cptlog-39e1ad6485/</link>
     </image>
     <item>
+      <title>Wormhole 1 - The Magic Number</title>
+      <description>The first Wormhole - a produced deep-dive. Seven lines of code in a 1999 video game (Quake III) compute one-over-a-square-root about four times faster than should be possible - no square root, no division - and the programmer left a comment beside it that is, simply, a bewildered curse. When the source went public, nobody at id Software would claim it. Follow the thread all the way down: why a number's raw bits are secretly its own logarithm, a magic constant nobody can explain the origin of, a decade-long hunt for the author, and a payoff that loops back to the standard underneath every calculation your computer makes. (The fast inverse square root, 0x5f3759df.)</description>
+      <itunes:summary>The first Wormhole - a produced deep-dive. Seven lines of code in a 1999 video game (Quake III) compute one-over-a-square-root about four times faster than should be possible - no square root, no division - and the programmer left a comment beside it that is, simply, a bewildered curse. When the source went public, nobody at id Software would claim it. Follow the thread all the way down: why a number's raw bits are secretly its own logarithm, a magic constant nobody can explain the origin of, a decade-long hunt for the author, and a payoff that loops back to the standard underneath every calculation your computer makes. (The fast inverse square root, 0x5f3759df.)</itunes:summary>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://nesint00-rgb.github.io/cptlog-39e1ad6485/episodes/wormhole-1-the-magic-number-2026-07-12.mp3" length="28619799" type="audio/mpeg"/>
+      <guid isPermaLink="false">folog-wormhole-1-the-magic-number-2026-07-12</guid>
+      <itunes:duration>23:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Knowledge Voyage 2 - How GPS Knows Where You Are</title>
       <description>The V3 explainer redeems the 'teach the real terms' note: a zero-to-understanding voyage through how your phone finds you - trilateration (not triangulation), atomic clocks, turning time into distance, and the showstopper - the special- and general-relativity time dilation (+45 and -7 = +38 microseconds/day) that GPS must correct or drift ~10 km/day. Plus ephemeris vs almanac and the GNSS family (GPS, GLONASS, Galileo, BeiDou). Anchored in Captain's eBird coordinates: every checklist pin placed by four atomic clocks and a dead physicist riding shotgun.</description>
       <itunes:summary>The V3 explainer redeems the 'teach the real terms' note: a zero-to-understanding voyage through how your phone finds you - trilateration (not triangulation), atomic clocks, turning time into distance, and the showstopper - the special- and general-relativity time dilation (+45 and -7 = +38 microseconds/day) that GPS must correct or drift ~10 km/day. Plus ephemeris vs almanac and the GNSS family (GPS, GLONASS, Galileo, BeiDou). Anchored in Captain's eBird coordinates: every checklist pin placed by four atomic clocks and a dead physicist riding shotgun.</itunes:summary>
