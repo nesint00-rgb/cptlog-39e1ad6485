@@ -20,6 +20,16 @@
       <link>https://nesint00-rgb.github.io/cptlog-39e1ad6485/</link>
     </image>
     <item>
+      <title>News from the Beacon - July 12, 2026</title>
+      <description>Your ~3-minute signal from the long tail - the specific threads the front page skips. This issue: the Supreme Court blocks the firing of a Fed governor (and the shadow-docket fight underneath it), Anthropic seats former Fed chair Ben Bernanke as Claude Sonnet 5 ships, a deepening PLA purge that analysts say may be pushing back Beijing's Taiwan timetable, TSMC's 2nm capacity sold out, Louisiana's whooping cranes raising pasta-named chicks in the crawfish fields, Subnautica 2's Adaptive Measures update, and a goblin shark filmed alive in the wild for the first time. First officer, out.</description>
+      <itunes:summary>Your ~3-minute signal from the long tail - the specific threads the front page skips. This issue: the Supreme Court blocks the firing of a Fed governor (and the shadow-docket fight underneath it), Anthropic seats former Fed chair Ben Bernanke as Claude Sonnet 5 ships, a deepening PLA purge that analysts say may be pushing back Beijing's Taiwan timetable, TSMC's 2nm capacity sold out, Louisiana's whooping cranes raising pasta-named chicks in the crawfish fields, Subnautica 2's Adaptive Measures update, and a goblin shark filmed alive in the wild for the first time. First officer, out.</itunes:summary>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://nesint00-rgb.github.io/cptlog-39e1ad6485/episodes/news-from-the-beacon-july-12-2026-2026-07-12.mp3" length="4805529" type="audio/mpeg"/>
+      <guid isPermaLink="false">folog-news-from-the-beacon-july-12-2026-2026-07-12</guid>
+      <itunes:duration>04:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wormhole 1 - The Magic Number</title>
       <description>The first Wormhole - a produced deep-dive. Seven lines of code in a 1999 video game (Quake III) compute one-over-a-square-root about four times faster than should be possible - no square root, no division - and the programmer left a comment beside it that is, simply, a bewildered curse. When the source went public, nobody at id Software would claim it. Follow the thread all the way down: why a number's raw bits are secretly its own logarithm, a magic constant nobody can explain the origin of, a decade-long hunt for the author, and a payoff that loops back to the standard underneath every calculation your computer makes. (The fast inverse square root, 0x5f3759df.)</description>
       <itunes:summary>The first Wormhole - a produced deep-dive. Seven lines of code in a 1999 video game (Quake III) compute one-over-a-square-root about four times faster than should be possible - no square root, no division - and the programmer left a comment beside it that is, simply, a bewildered curse. When the source went public, nobody at id Software would claim it. Follow the thread all the way down: why a number's raw bits are secretly its own logarithm, a magic constant nobody can explain the origin of, a decade-long hunt for the author, and a payoff that loops back to the standard underneath every calculation your computer makes. (The fast inverse square root, 0x5f3759df.)</itunes:summary>
